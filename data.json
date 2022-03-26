@@ -1,10 +1,18 @@
 {
-    "Amazon": {
-        "email": "angela@gmail.com",
-        "password": ")s#RNMPNM&l2!1u6CDBM#SG4pcd6*k%"
-    },
     "google": {
         "email": "angela@gmail.com",
-        "password": "YOZp4()O+Ece3"
+        "password": "password"
+    },
+    "hotmail": {
+        "email": "angela@gmail.com",
+        "password": "9FC49$tS#%FqNcR0"
+    },
+    "gmail": {
+        "email": "angela@gmail.com",
+        "password": "hunter2"
+    },
+    "runescape": {
+        "email": "angela@gmail.com",
+        "password": "sAUA&TNX(X9r2V"
     }
 }
